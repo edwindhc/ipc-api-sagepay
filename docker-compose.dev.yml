@@ -1,0 +1,6 @@
+version: "2"
+services:
+  ipc:
+    command: yarn dev -- -L
+    environment:
+      - NODE_ENV=development

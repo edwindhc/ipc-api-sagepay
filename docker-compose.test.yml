@@ -1,0 +1,6 @@
+version: "2"
+services:
+  ipc:
+    command: yarn test
+    environment:
+      - NODE_ENV=test
