@@ -1,5 +1,6 @@
-# imaginamos-api-ecommerce
-imaginamos-api-ecommerce
+# Api Rest Nodejs, Mongodb, Express, Sage pay
+
+Api Rest Nodejs, Mongodb, Express, Sage pay frontend: https://github.com/edwindhc/ipc-electron
 
 ## Getting Started
 
@@ -19,8 +20,8 @@ What things you need to install the software and how to install them
 Clone the repo and make it yours:
 
 ```bash
-git clone --depth 1 https://github.com/edwindhc/imaginamos-api-ecommerce.git
-cd imaginamos-api-ecommerce
+git clone --depth 1 https://github.com/edwindhc/ipc-api-sagepay.git
+cd ipc-api-sagepay
 ```
 
 Install dependencies:
